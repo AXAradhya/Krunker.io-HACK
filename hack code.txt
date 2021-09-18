@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Krunker.io Hack By AXAradhya
-// @namespace    https://github.com/
+// @namespace    https://github.com/AXAradhya/
 // @version      1.0
 // @description  The best hack for Krunker!
-// @author       SkidLamer
+// @author       AXAradhya
 // @include      /^https?\:\/\/krunker\..*\/.*$/
 // @include      /^https?\:\/\/.*.browserfps\..*\/.*$/
-// @icon         https://i.imgur.com/Rup22iG.png
+// @icon         https://imgur.com/Ycr0KYl
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
