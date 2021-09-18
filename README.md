@@ -6,7 +6,6 @@ Krunker.io HACK
 ## How to add the hack : 
 STEP 1 : To add the hack you need to install TAMPERMONKEY on you Device.                                      
          TAMPERMONKEY Chrome -->> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-         TAMPERMONKEY App -->> https://www.tampermonkey.net/
 
 STEP 2 : Download Code.txt
 
