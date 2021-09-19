@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name         Krunker.io Hack By AXAradhya
-// @namespace    https://github.com/AXAradhya/
-// @version      1.0
-// @description  The best hack for Krunker!
-// @author       AXAradhya
-// @include      /^https?\:\/\/krunker\..*\/.*$/
-// @include      /^https?\:\/\/.*.browserfps\..*\/.*$/
-// @icon         https://imgur.com/Ycr0KYl
+// @name         Krunker Central Official Menu
+// @namespace    https://krunkercentral.com/
+// @version      4.0.9
+// @description  Your Central Locaction For Everything Krunker!
+// @author       SkidLamer
+// @match        *://krunker.io/*
+// @icon         https://i.imgur.com/Rup22iG.png
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
